@@ -1,7 +1,7 @@
 # portfolio  https://mmeged.github.io/portfolio/
 HERE WE GOOOOO
 
-# About Me
+# About me
 My name is Michelle Meged (she/her/hers) and I'm a Master of Arts Management student at CMU ('21). I grew up in Los Angeles but spent the last 13 years in New York City before moving to Pittsburgh for school. While working in Visitor Services Departments throughout the city's museums, I received my bachelors in Media Studies from NYU. My senior thesis was on Instagram, the creation of the mediated self, and the fan-celebrity parasocial relationship. I believe that the arts should be made accessible for everyone, so I'm interested in breaking down the barriers to arts participation. I also make collages out of vintage magazines, and really value having an outlet for creative expression.
 
 # What I hope to learn 
