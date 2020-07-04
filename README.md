@@ -6,3 +6,10 @@ My name is Michelle Meged (she/her/hers) and I'm a Master of Arts Management stu
 
 # What I hope to learn 
 One of the main reasons I chose to go to Heinz was for its data-driven focus (which is admittedly not my strong-suit!). But the truth of the matter is that non-profits are subject to the same modes of analyses as for-profit ventures, and investors and funders are increasingly looking for data about who an orgaization serves, how they go about reaching them, and what their ROI is. Being able to communicate these considerations accurately, clearly, and thoughtfully is critical to ensuring an organization's sustainability and success. And as a visually-based person, I look forward to learning more about the methods and strategies that can impart that information through color, scale, layout, and format.
+
+# Portfolio
+This is where my data visualizations will go.
+
+# Data Visualization Practice
+
+# Final Project
