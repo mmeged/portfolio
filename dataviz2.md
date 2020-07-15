@@ -7,4 +7,4 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3181230" data-url="https://flo.uri.sh/visualisation/3181230/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Here you can see how government debt as a percentage of GDP for various countries has evolved from 1995 - 2019 (wherever information is publicly available).
+This data visualization presents government debt as a percentage of GDP from 1995 - 2019 for several countries (based on information made publicly available by OECD).
