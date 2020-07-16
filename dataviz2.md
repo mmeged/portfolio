@@ -17,7 +17,7 @@ Government Debt by Country, 1995 - 2019
 
 I decided to re-create the chart as a dot plot. Each row represents a country, with labels on the left hand side. Each column represents a year, with labels at the bottom. The size of each circle corresponds to the gross debt of the general government as a percentage of GDP. I chose a blue color for the dots because I felt it was neutral, and kept the dots opaque (as opposed to semi-transparent) so that the comparative sizes of the dots were easier to gauge. I utilized a faint grey line that extends from each country on the x-axis, but I'm not sure this is entirely necessary. I also have the countries listed in alphabetical order (starting with Australia at the top, ending with USA at the bottom) to make it easier for a reader to find a particular country of interest.
 
-I think the dot plot is better than the original chart in conveying the relative size of the ratio (that is, it's easier to compare the countries' debt-to-GDP radio). But there is a lot of scrolling to get to the bottom to figure out what the X category is, and the size of the dots - their worth/meaning - isn't as readily clear as I would like.
+I think the dot plot is better than the original chart in conveying the relative size of the ratio (that is, it's easier to compare the countries' debt-to-GDP ratios). But there is a lot of scrolling to get to the bottom to figure out what the X category is, and the size of the dots - their worth/meaning - isn't as readily clear as I would like.
 
 # Tableau Exercise
 
