@@ -47,5 +47,11 @@ Titanic Stats - class, boat, survival (https://app.rawgraphs.io/)
 
 a. ![image](https://user-images.githubusercontent.com/67839182/88246138-a2029f00-cc67-11ea-8e80-9d30b6f9d4f6.png)
 
+I was immediately drawn to the idea of the unit chart so that people could really see what the disparity in funding looked like (i.e. lots of blocks = lots of money, vs "WOW NO BLOCKS AT ALL?!). Unfortunately I grappled with finding a good unit of measurement. A $10 million square does not scale down to any meaningful shape or size for $45,000. Also, how would I graphically represent $0 for Arts and Culture? Both people I showed this to expressed difficulty comprehending the metric (block to dollars). They also felt the subtitle and the categories were exposing a bias of the chartmaker. While I was definitely interested in creating a particular narrative, I definitely didn’t want to convey bias.
+
+b. ![image](https://user-images.githubusercontent.com/67839182/88246256-f279fc80-cc67-11ea-98b4-07636231c063.png)
+
+This was another way I explored communicating that disparity. Both viewers expressed surprise at these findings (which was great news for me because it meant I got a crucial point across). But they also expressed interest in seeing other departments; they felt like they were missing a part of the picture.
+
 
 # Final Project
