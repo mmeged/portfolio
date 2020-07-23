@@ -35,4 +35,8 @@ Titanic Stats - class, boat, survival (https://app.rawgraphs.io/)
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+# Data Visualization Critique and Revisualization 7/22/20
+
+[Original](https://controller.phila.gov/philadelphia-audits/revised-fy21-fy25-budget/#/spending)
+
 # Final Project
