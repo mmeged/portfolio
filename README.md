@@ -38,5 +38,7 @@ Titanic Stats - class, boat, survival (https://app.rawgraphs.io/)
 # Data Visualization Critique and Revisualization 7/22/20
 
 [Original](https://controller.phila.gov/philadelphia-audits/revised-fy21-fy25-budget/#/spending)
+![Philadelphia FY21 Revised Budget](https://user-images.githubusercontent.com/67839182/88245907-dc1f7100-cc66-11ea-84db-76f767207f55.png)
+
 
 # Final Project
