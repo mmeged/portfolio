@@ -38,7 +38,14 @@ Titanic Stats - class, boat, survival (https://app.rawgraphs.io/)
 # Data Visualization Critique and Revisualization 7/22/20
 
 [Original](https://controller.phila.gov/philadelphia-audits/revised-fy21-fy25-budget/#/spending)
+
 ![Philadelphia FY21 Revised Budget](https://user-images.githubusercontent.com/67839182/88245907-dc1f7100-cc66-11ea-84db-76f767207f55.png)
+
+1. Critique: I selected this visualization because it represented a topic of specific interest. Since I follow Arts and Culture Twitter, I already knew that Philadelphia’s revised FY21 budget had eliminated their Arts and Culture department. But I didn’t know that the city’s Controller created a visualization of the budget as a tool of transparency, so I was excited to check it out. While I appreciated its thoroughness, it seemed to leverage that thoroughness to hide the real impact of the budget revision. Because there are so many bubbles, it is easy to miss entire categories if you’re not taking the time to explore everything. It is also easy to miss classes. For example, there are three classes within every department: materials/equip, personal services, and purchase of services. Parsing them out by class (instead of department) undermines the extent of the budget changes. Someone might hover over the bubble I selected and think Arts, Culture, and the Creative Economy was only defunded by $7,000, when the total defunded amount is actually over $4 million. I also feel like the shaded colors are misleading, since the differences in very light green and very light red and largely imperceptible. It is difficult to look at this visualization and realize that the budget for Police was increased at the same proportion another department was defunded (or eliminated).
+
+2. Process: I decided to use the data to tell a specific story. Instead of sharing everything like in the Controller’s model, I wanted to tell the impact of these revisions – impacts that were obscured by a lumped group of bubbles.
+
+a. ![image](https://user-images.githubusercontent.com/67839182/88246138-a2029f00-cc67-11ea-8e80-9d30b6f9d4f6.png)
 
 
 # Final Project
