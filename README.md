@@ -45,13 +45,25 @@ Titanic Stats - class, boat, survival (https://app.rawgraphs.io/)
 
 2. Process: I decided to use the data to tell a specific story. Instead of sharing everything like in the Controller’s model, I wanted to tell the impact of these revisions – impacts that were obscured by a lumped group of bubbles.
 
-a. ![image](https://user-images.githubusercontent.com/67839182/88246138-a2029f00-cc67-11ea-8e80-9d30b6f9d4f6.png)
+a. 
+
+![image](https://user-images.githubusercontent.com/67839182/88246138-a2029f00-cc67-11ea-8e80-9d30b6f9d4f6.png)
 
 I was immediately drawn to the idea of the unit chart so that people could really see what the disparity in funding looked like (i.e. lots of blocks = lots of money, vs "WOW NO BLOCKS AT ALL?!). Unfortunately I grappled with finding a good unit of measurement. A $10 million square does not scale down to any meaningful shape or size for $45,000. Also, how would I graphically represent $0 for Arts and Culture? Both people I showed this to expressed difficulty comprehending the metric (block to dollars). They also felt the subtitle and the categories were exposing a bias of the chartmaker. While I was definitely interested in creating a particular narrative, I definitely didn’t want to convey bias.
 
-b. ![image](https://user-images.githubusercontent.com/67839182/88246256-f279fc80-cc67-11ea-98b4-07636231c063.png)
+b.
+
+![image](https://user-images.githubusercontent.com/67839182/88246256-f279fc80-cc67-11ea-98b4-07636231c063.png)
 
 This was another way I explored communicating that disparity. Both viewers expressed surprise at these findings (which was great news for me because it meant I got a crucial point across). But they also expressed interest in seeing other departments; they felt like they were missing a part of the picture.
+
+c.
+
+![image](https://user-images.githubusercontent.com/67839182/88246530-cdd25480-cc68-11ea-9b1d-92e4e48d825f.png)
+
+While I received critique for my crummy crowding on the x-axis, both of my reviewers got the point of this graph without feeling there was exceptional bias. One person did ask if there were other departments than the ones included here. And the other wondered if there was any particular order to the way the x-axis was arranged.
+
+3. Solution: 
 
 
 # Final Project
