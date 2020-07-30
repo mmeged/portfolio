@@ -26,6 +26,6 @@ Lastly, I’ll share data about Americans’ trust in the government to share ev
   <iframe title="If the US government had evidence of UFOs, do you think it would...?" aria-label="Grouped Bars" id="datawrapper-chart-5UZJH" src="https://datawrapper.dwcdn.net/5UZJH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1760"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
   
-  # Method and Medium
+# Method and Medium
   
-I plan on refining my charts in the same modes they were created (there are still kinks I need to figure out - like how to group the categories of gender/age/income/etc in the third chart) and telling the story through Shorthand. I will use images from approved sources to add to my story. Sample imagery might include pictures of Area 51, UFOs, and space in general.
+I plan on refining my charts in the same modes they were created (there are still kinks I need to figure out - like why the Tableau has that random marker on 2003, and how to group the categories of gender/age/income/etc in the third chart) and telling the story through Shorthand. I will use images from approved sources to add to my story. Sample imagery might include pictures of Area 51, UFOs, and space in general.
