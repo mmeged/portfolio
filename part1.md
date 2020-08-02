@@ -18,7 +18,7 @@ Lastly, I’ll share data about Americans’ trust in the government to share ev
 
 # Prototype Charts
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3332816" data-url="https://flo.uri.sh/visualisation/3332816/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+![image](https://user-images.githubusercontent.com/67839182/89134922-199dbd00-d4f7-11ea-89f6-33e9de2f06da.png)
 
 <div class='tableauPlaceholder' id='viz1596083144525' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;UF&#47;UFOSightings_15960827386210&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;UFOSightings_15960827386210&#47;Sheet1?:language=en&amp;:embed=y&amp;:display_count=y&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;UF&#47;UFOSightings_15960827386210&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div> <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1596083144525');                    
@@ -27,6 +27,12 @@ Lastly, I’ll share data about Americans’ trust in the government to share ev
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3332816" data-url="https://flo.uri.sh/visualisation/3332816/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+![image](https://user-images.githubusercontent.com/67839182/89134927-2b7f6000-d4f7-11ea-97c7-cf2b45b6d19a.png)
+
+
   
   
   <iframe title="If the US government had evidence of UFOs, do you think it would...?" aria-label="Grouped Bars" id="datawrapper-chart-5UZJH" src="https://datawrapper.dwcdn.net/5UZJH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1760"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
