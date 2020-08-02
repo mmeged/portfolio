@@ -10,6 +10,10 @@ Next, I’ll be using the dataset provided by the National UFO Reporting Center,
 
 Lastly, I’ll share data about Americans’ trust in the government to share evidence of UFOs with the public. This data comes from a Yougov poll conducted June 2020.
 
+# Story Board
+
+![image](https://user-images.githubusercontent.com/67839182/89114596-421cad00-d44c-11ea-8d92-b8300d6c59bc.png)
+
 # Prototype Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3332816" data-url="https://flo.uri.sh/visualisation/3332816/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
