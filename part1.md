@@ -30,6 +30,7 @@ The National UFO Reporting Center, which is based in the U.S., maintains statist
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
   
+  
   In the past six months alone, sightings have been reported in every state.
   
   ![image](https://user-images.githubusercontent.com/67839182/89135068-91b8b280-d4f8-11ea-9ab3-717158bbb5d9.png)
@@ -47,11 +48,10 @@ In fact, the rate of astoronomers who have observed inexplicable aerial phenomen
 ![image](https://user-images.githubusercontent.com/67839182/89135169-844ff800-d4f9-11ea-95f1-2626b54af1c7.png)
 
 There is widespread belief - across gender, age, income, education, region, and political leaning - that if the government had proof of UFOs that they would keep it from the American public.
-
-![image](https://user-images.githubusercontent.com/67839182/89134927-2b7f6000-d4f7-11ea-97c7-cf2b45b6d19a.png)
   
   <iframe title="If the US government had evidence of UFOs, do you think it would...?" aria-label="Grouped Bars" id="datawrapper-chart-5UZJH" src="https://datawrapper.dwcdn.net/5UZJH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1760"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
   
   The majority of the American public believes in the possibility that UFOs exist. The majority of astronomers believe they are worth studying. But the designation of UFOlogy as a pseudo- or fringe science means the issue is majorly underfunded and understudied - especially since the government is less than forthcoming about the knowledge they've accumulated. Dismantle the taboos around UFOlogy and advocate for the government to fund UFOlogy. The truth is out there!
   
