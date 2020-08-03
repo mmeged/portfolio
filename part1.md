@@ -53,8 +53,51 @@ There is widespread belief - across gender, age, income, education, region, and 
 </script>
 
   
+  
   The majority of the American public believes in the possibility that UFOs exist. The majority of astronomers believe they are worth studying. But the designation of UFOlogy as a pseudo- or fringe science means the issue is majorly underfunded and understudied - especially since the government is less than forthcoming about the knowledge they've accumulated. Dismantle the taboos around UFOlogy and advocate for the government to fund UFOlogy. The truth is out there!
   
+# User Research
+
+Target Audience: Because the existence of UFOs is a question that has permeated popular culture and consistently makes the news, I hope to reach a general audience that exists within these narratives (focusing on the American public specifically). They may have watched The X-Files or heard about the recent declassification reports, but they aren’t astronomers or scientists who might have stronger feelings/vested interests (with career implications) on the matter.
+
+Identifying Individuals to Interview: I interviewed three adults: and a man in his 40s selling commercial real estate; a woman in her 30s working in development; a man in his 20s in school full-time.
+
+Interview Script:
+1. Did you know any of this information before seeing these visualizations?
+2. Did you find any of these visualizations surprising?
+3. Did you have any questions about this data? Was anything confusing? 
+4. Is there anything you would change about this story?
+5. Did your feelings change about this topic? 
+
+Interview Findings:
+
+Person 1 Responses: 
+
+1. I knew that the Navy had declassified some of the sightings that pilots had seen but I had never seen the data broken down in terms of by the scientific community or the general public at large.
+
+2. The breakdown by group regarding whether the government would hide that information or if they would tell the public. The breakdowns of the different groups were somewhat surprising, especially between men and women. Also was surprised at the number of sightings that were reported.
+
+3. The only piece that I was a little confused about was the color palette section on where that was going to be applied. I would be curious to know the criteria for cases that are reported. Is there any investigation or verification for what constitutes a sighting.
+
+4. The comparison of how long it took for the heliocentric model to be adapted feels like it gets a little lost in the narrative. 
+
+5. Slightly with the breakdown of sex, age, and income level for the way that people either do or don't believe that the government would tell the public. 
+
+Person 2 Responses:
+
+1. I was aware of the recent declassification and was somewhat aware of the percentages of everyday folks who believe in the existence of intelligent life elsewhere.
+
+2. I was (pleasantly) susrprised to see the high percentage of astronomers who have reported seeing UFOs
+
+3. Confused on the visual stating 4.6% of polled astronomers report inexplicable sightings etc - 4.6? or 46%? 4.6% isn't worth highlighting, unless I'm not understanding the message?
+
+4. I feel like the charts around the gov’t and public mis/trust should be together as part of the story arch. Go from that after the declass into the general public belief into the scientific community into the grand finale.
+
+5. Nope, but did pleasantly reinforce. I was in the X-Files fan club. I was an X-Phile. I love this shit. 
+
+Person 3 (answers pending)
+
+
 # Method and Medium
   
 I plan on refining my charts in the same modes they were created (there are still kinks I need to figure out - like why the Tableau has that random marker on 2003, and how to group the categories of gender/age/income/etc in the third chart) and telling the story through Shorthand. I will use images from approved sources to add to my story. Sample imagery might include pictures of Area 51, UFOs, and space in general.
