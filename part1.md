@@ -93,9 +93,20 @@ Person 2 Responses:
 
 4. I feel like the charts around the gov’t and public mis/trust should be together as part of the story arch. Go from that after the declass into the general public belief into the scientific community into the grand finale.
 
-5. Nope, but did pleasantly reinforce. I was in the X-Files fan club. I was an X-Phile. I love this shit. 
+5. Nope, but did pleasantly reinforce. I was in the X-Files fan club. I was an X-Phile. I love this shit.
 
-Person 3 (answers pending)
+Person 3 Responses:
+
+
+1. Yes, I was aware of a significant portion of this information because of a lifelong personal interest in the topic. 
+
+2. The most surprising element to me was the rate of astronomer UFO sightings. 
+
+3. The only possible aspect I found confusing was conflation of belied in UFOs and belief in the existence of extraterrestrial life. I think definitions for each may need to be established as these two things are used somewhat interchangeably at times. 
+
+4. In terms of story structure, no. I think this is constructed in a highly engaging manner that leads the reader to the information in accessible ways. 
+
+5.  I wouldn’t say that my feelings changed, however as someone who enjoys the topic, I found it to be an engaging read with some novel information throughout.
 
 
 # Method and Medium
