@@ -30,7 +30,9 @@ Once I had my storyboard and prototype charts created, I sent them out for feedb
 
 I really enjoyed playing around with Shorthand. It was not the most intuitive tool to me, and I had trouble getting some charts to display properly. Maybe this is something I could have figured out if I had more time. But regardless, I think the effect is stunning and swanky and I’m grateful to have had the opportunity to experiment with it.
 
-# Data and Rsearch Sources
+You can view the final presentation on Shorthand here.
+
+# Data and Research Sources
 
 Bewster, Jack. “Here’s Why the Pentagon Officially Released UFO Video Footage,” Forbes., April 27, 2020. https://www.forbes.com/sites/jackbrewster/2020/04/27/heres-why-the-pentagon-officially-released-ufo-video-footage/#775eff521a6a. Accessed August 4, 2020.
 
