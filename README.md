@@ -75,3 +75,5 @@ I think the scale between police and everything else is immediately apparent. I 
 # Final Project
 
 [Part 1](/part1.md)
+
+[Part 2](/part2.md)
