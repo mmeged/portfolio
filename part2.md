@@ -30,7 +30,7 @@ Once I had my storyboard and prototype charts created, I sent them out for feedb
 
 I really enjoyed playing around with Shorthand. It was not the most intuitive tool to me, and I had trouble getting some charts to display properly. Maybe this is something I could have figured out if I had more time. But regardless, I think the effect is stunning and swanky and I’m grateful to have had the opportunity to experiment with it.
 
-You can view the final presentation on Shorthand here.
+You can view the final presentation on Shorthand [here](https://carnegiemellon.shorthandstories.com/the-truth-is-out-there/index.html).
 
 # Data and Research Sources
 
