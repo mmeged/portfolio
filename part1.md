@@ -1,5 +1,5 @@
 
-# UFO Study
+# Final Project - Part 1
 
 Historically, scientists have rebuffed reports of aliens and unidentified flying objects (“UFOs”) as pseudoscience more worthy of conspiracy theories than serious study. In April 2020, however, the Pentagon declassified three previously leaked videos showing “unexplained aerial phenomena,” in a de facto acknowledgment of their existence. The release sparked renewed interest in UFOs and the government’s role in hiding information about them from the public. 
 Within this context, my final project will investigate the American public’s belief in the existence of UFOs, and their belief that the government is being forthcoming in their existence.
@@ -54,7 +54,7 @@ There is widespread belief - across gender, age, income, education, region, and 
   
   The majority of the American public believes in the possibility that UFOs exist. The majority of astronomers believe they are worth studying. But the designation of UFOlogy as a pseudo- or fringe science means the issue is majorly underfunded and understudied - especially since the government is less than forthcoming about the knowledge they've accumulated. Dismantle the taboos around UFOlogy and advocate for the government to fund UFOlogy. The truth is out there!
   
-## ser Research
+## User Research
 
 Target Audience: Because the existence of UFOs is a question that has permeated popular culture and consistently makes the news, I hope to reach a general audience that exists within these narratives (focusing on the American public specifically). They may have watched The X-Files or heard about the recent declassification reports, but they aren’t astronomers or scientists who might have stronger feelings/vested interests (with career implications) on the matter.
 
@@ -109,5 +109,6 @@ Person 3 Responses:
 ## Method and Medium
   
 I plan on refining my charts in the same modes they were created (there are still kinks I need to figure out - like why the Tableau has that random marker on 2003, and how to group the categories of gender/age/income/etc in the third chart) and telling the story through Shorthand. I will use images from approved sources to add to my story. Sample imagery might include pictures of Area 51, UFOs, and space in general.
+
 
 [Continue to Part 2](/Part2.md)
