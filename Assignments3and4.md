@@ -34,4 +34,4 @@ Through this process, I realized what I really wanted to convey to the audience 
 
 I think the scale between police and everything else is immediately apparent. I grouped the x-axis categories so that related items were near each other (i.e. Police, Prison, and Sheriff are “grouped” at the start of the graph). I revised the heading to include “Snapshot” to be transparent that there were other categories, and tried to create a less incendiary subheading to temper my obvious bias. I also added a call-out to the Arts and Culture category because I really didn’t want that to get lost.
 
-[Back to Main Site](/portfolio.md)
+[Back to Main Site](/README.md)
