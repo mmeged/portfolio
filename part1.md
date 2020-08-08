@@ -111,4 +111,4 @@ Person 3 Responses:
 I plan on refining my charts in the same modes they were created (there are still kinks I need to figure out - like why the Tableau has that random marker on 2003, and how to group the categories of gender/age/income/etc in the third chart) and telling the story through Shorthand. I will use images from approved sources to add to my story. Sample imagery might include pictures of Area 51, UFOs, and space in general.
 
 
-[Continue to Part 2](/Part2.md)
+[Continue to Part 2](/part2.md)
