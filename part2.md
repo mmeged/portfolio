@@ -1,10 +1,12 @@
-# The Audience
+# Final Project - Part 2
+
+## The Audience
 
 My audience is the general public. Not a scientist or astronomer, someone who’s maybe intrigued by UFOs, has watched sci-fi movies and tv series, but by-and-large skeptical and dismissive of UFOlogy as a fringe science that preoccupies the minds of conspiracy theorists.
 
 I wanted to “de-fang” this armor. So I started by contextualizing UFOlogy within a series of larger phenomena that have likewise been dismissed throughout history but later were proven true. I wanted them to give the issue an open mind. I also tried to reveal a really reasonable ask. The experts believe it’s worth studying, so they should be able to without losing face or being ridiculed. The results of that kind of study could reap immeasurable benefits.
 
-# Updating Charts
+## Updating Charts
 
 Chart revisions: To streamline the narrative and ease legibility, I updated and refined a few charts. I standardized the pie charts to maintain consistency. Unfortunately, the two Astronomer charts didn't work well in my Shorthand narrative (and Datawrapper wouldn't let me edit the heading color, or add an opaque background to ease legibility), but I really wanted to maintain that consistency in style so I took a screenshot of it and uploaded that to Shorthand. This is what they look like as embedded code: 
 
@@ -18,7 +20,7 @@ I also changed my approach with the "government trust chart." First, I changed t
 
 One reviewer was also confused by my point that 4.6% of astronomers witnessed inexplicable aerial phenomena; since it was such a low figure, she thought I was undermining my own point. By expanding on that point through narrative and a clear infographic, I believe the correlation I was trying to make became more identifiable.
 
-# The Work
+## The Work
 
 My biggest obstacle for this assignment was not having the raw data for my original story on diversity in museum leadership. I know the data exists, as I’ve read reports on the industry’s problem on this specific issue. But I didn’t realize those raw figures were not available until I was in it too deep, and then I was grasping at straws. I contacted the Carnegie Library and was connected to a database that had insufficient data; I reached out to a woman who visited my class last year and spoke on this issue, and she wasn’t able to give me access to it either. I know the assignment stresses to make sure to have the data first, but I underestimated how often/thoroughly that data is just not readily made public. It really made me consider why so much data is kept private when transparency is such an important value.
 
@@ -32,7 +34,7 @@ I really enjoyed playing around with Shorthand. It was not the most intuitive to
 
 You can view the final presentation on Shorthand [here](https://carnegiemellon.shorthandstories.com/the-truth-is-out-there/index.html).
 
-# Data and Research Sources
+## Data and Research Sources
 
 Bewster, Jack. “Here’s Why the Pentagon Officially Released UFO Video Footage,” Forbes., April 27, 2020. https://www.forbes.com/sites/jackbrewster/2020/04/27/heres-why-the-pentagon-officially-released-ufo-video-footage/#775eff521a6a. Accessed August 4, 2020.
 
@@ -69,7 +71,7 @@ Sturrock, Peter. “Report on a Survey of the Membership of the American Astrono
 
 UFO Pentagon video (Source: the U.S. Department of Defense) - https://theconversation.com/the-us-military-has-officially-published-three-ufo-videos-why-doesnt-anybody-seem-to-care-137498
 
-# Image and Video Sources
+## Image and Video Sources
 
 Dodd, Adam. “The U.S. Military Has Officially Published Three UFO Videos. Why Doesn’t Anybody Seem to Care?” The Conversation. Video sourced from U.S. Department of Defense. https://theconversation.com/the-us-military-has-officially-published-three-ufo-videos-why-doesnt-anybody-seem-to-care-137498. Accessed August 2, 2020
 
@@ -82,6 +84,9 @@ Dodd, Adam. “The U.S. Military Has Officially Published Three UFO Videos. Why 
 “Milky Way Universe,” Pixabay. https://pixabay.com/photos/galaxy-infinity-milky-way-orbit-1837306/. Accessed August 2, 2020.
 
 “Photo of Galaxy,” Pexels.com. https://www.pexels.com/photo/galaxy-wallpaper-2538107/. Accessed August 5, 2020.
+
+
+[Back to Main Site](README.md)
 
 
 
