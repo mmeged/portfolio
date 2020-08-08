@@ -10,13 +10,13 @@ Next, I’ll be using the dataset provided by the National UFO Reporting Center,
 
 Lastly, I’ll share data about Americans’ trust in the government to share evidence of UFOs with the public. This data comes from a Yougov poll conducted June 2020.
 
-# Story Board
+## Story Board
 
 ![image](https://user-images.githubusercontent.com/67839182/89114596-421cad00-d44c-11ea-8d92-b8300d6c59bc.png)
 
 ![image](https://user-images.githubusercontent.com/67839182/89114619-8019d100-d44c-11ea-92d4-36d11360c066.png)
 
-# Prototype Charts
+## Prototype Charts
 
 ![image](https://user-images.githubusercontent.com/67839182/89134922-199dbd00-d4f7-11ea-89f6-33e9de2f06da.png)
 
@@ -51,12 +51,10 @@ There is widespread belief - across gender, age, income, education, region, and 
   
   <iframe title="If the US government had evidence of UFOs, do you think it would...?" aria-label="Grouped Bars" id="datawrapper-chart-5UZJH" src="https://datawrapper.dwcdn.net/5UZJH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1760"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-  
   
   The majority of the American public believes in the possibility that UFOs exist. The majority of astronomers believe they are worth studying. But the designation of UFOlogy as a pseudo- or fringe science means the issue is majorly underfunded and understudied - especially since the government is less than forthcoming about the knowledge they've accumulated. Dismantle the taboos around UFOlogy and advocate for the government to fund UFOlogy. The truth is out there!
   
-# User Research
+## ser Research
 
 Target Audience: Because the existence of UFOs is a question that has permeated popular culture and consistently makes the news, I hope to reach a general audience that exists within these narratives (focusing on the American public specifically). They may have watched The X-Files or heard about the recent declassification reports, but they aren’t astronomers or scientists who might have stronger feelings/vested interests (with career implications) on the matter.
 
@@ -97,7 +95,6 @@ Person 2 Responses:
 
 Person 3 Responses:
 
-
 1. Yes, I was aware of a significant portion of this information because of a lifelong personal interest in the topic. 
 
 2. The most surprising element to me was the rate of astronomer UFO sightings. 
@@ -109,7 +106,7 @@ Person 3 Responses:
 5.  I wouldn’t say that my feelings changed, however as someone who enjoys the topic, I found it to be an engaging read with some novel information throughout.
 
 
-# Method and Medium
+## Method and Medium
   
 I plan on refining my charts in the same modes they were created (there are still kinks I need to figure out - like why the Tableau has that random marker on 2003, and how to group the categories of gender/age/income/etc in the third chart) and telling the story through Shorthand. I will use images from approved sources to add to my story. Sample imagery might include pictures of Area 51, UFOs, and space in general.
 
