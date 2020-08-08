@@ -15,13 +15,13 @@ This is where my data visualizations will go.
 [In-Class Exercise 7/9/20](/inclassexercise1.md)
 
 
-[Link to Assignment 2](/dataviz2.md)
+[Assignment 2](/dataviz2.md)
 
 
 [In-Class Exercise 7/16/20](/inclassexercise2.md)
 
 
-[Link to Assignments 3 & 4](/Assignments3and4.md)
+[Assignments 3 & 4](/Assignments3and4.md)
 
 
 # Final Project: The Truth is Out There - The Data Behind UFOLOGY
