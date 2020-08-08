@@ -12,10 +12,13 @@ This is where my data visualizations will go.
 
 # Data Visualization Practice
 
-In-Class Exercise 7/9/20
+[In-Class Exercise 7/9/20/](/inclassexercise1.md)
 
 
 [Link to Assignment 2](/dataviz2.md)
+
+
+[In-Class Exercise 7/16/20]
 
 # Class Exercise 7/16/20 
 
